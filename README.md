@@ -1,6 +1,6 @@
 # Karix-RCS
 
-Tells you about the user guide of the info
+Tells you about the user guide of the information about Karix API
 # Authentication
 Karix API uses bearer tokens as an authentication layer while sending request
 Bearer <auth-token>
